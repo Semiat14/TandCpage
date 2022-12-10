@@ -17,7 +17,7 @@ header {
 }
 
 #menimg {
-    width: 60%;
+    width: 40%;
     height: 80px;
 }
 
@@ -27,6 +27,11 @@ header {
     align-items: center;
     width: 30%;
     margin-right: 10%;
+}
+
+#rh-menu a {
+    text-decoration: none;
+    color: #222;
 }
 
 #rhrh {
@@ -45,6 +50,7 @@ header {
     border: 0px;
     background-color: #266BBF;
     outline: none;
+    cursor: pointer;
 }
 
 #lg {
@@ -54,6 +60,7 @@ header {
     outline: none;
     border: 1px solid #174073;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 #sect1 {
@@ -88,6 +95,7 @@ header {
     background-color: #266BBF;
     outline: none;
     color: #fff;
+    cursor: pointer;
 }
 
 #crtimg {
@@ -255,6 +263,7 @@ header {
     background-color: #266BBF;
     outline: none;
     margin-top: 20px;
+    cursor: pointer;
 }
 
 .icn {
@@ -333,6 +342,7 @@ header {
     background-color: #266BBF;
     outline: none;
     color: #fff;
+    cursor: pointer;
 }
 
 #foot {
@@ -354,7 +364,8 @@ header {
 }
 
 #ftimg {
-    height: 80px;
+    height: 100px;
+    width: 130px;
 }
 
 #foot2 {
